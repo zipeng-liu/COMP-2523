@@ -11,3 +11,4 @@ function distance(x1: number, y1: number, x2: number, y2: number): number {
 }
 
 console.log(distance(2, 3, 4, 6));
+console.log(distance(1, 2, 2, 4));
